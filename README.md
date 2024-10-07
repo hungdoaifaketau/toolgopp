@@ -1,2 +1,1 @@
-# toolgopp
-# toolgopp
+k co code dau thg ngu
